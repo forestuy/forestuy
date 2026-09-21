@@ -1,0 +1,79 @@
+[
+  {
+    "id": "axel",
+    "name": "Axel",
+    "city": "Los Cerrillos",
+    "whatsapp": "59893621742",
+    "instagram": "axeel_ttapia"
+  },
+  {
+    "id": "lautaro",
+    "name": "Lautaro",
+    "city": "Los Cerrillos",
+    "whatsapp": "59891567625",
+    "instagram": "lautaro_lafluf"
+  },
+  {
+    "id": "ivan",
+    "name": "Ivan",
+    "city": "Las Piedras",
+    "whatsapp": "59897376917",
+    "instagram": "ivanshamlian"
+  },
+  {
+    "id": "nacho",
+    "name": "Nacho",
+    "city": "Las Piedras",
+    "whatsapp": "59892911628",
+    "instagram": "nacholastarriaa_"
+  },
+  {
+    "id": "renzo",
+    "name": "Renzo",
+    "city": "Santa Lucía",
+    "whatsapp": "59899476446",
+    "instagram": "reenzo.dj"
+  },
+  {
+    "id": "naomi",
+    "name": "Naomi",
+    "city": "Santa Lucía",
+    "whatsapp": "59891989689",
+    "instagram": "naomiperez.uy"
+  },
+  {
+    "id": "agustin",
+    "name": "Agustin",
+    "city": "Santa Lucía",
+    "whatsapp": "59896992974",
+    "instagram": "_doll.sw"
+  },
+  {
+    "id": "kevin",
+    "name": "Kevin",
+    "city": "Santa Lucía",
+    "whatsapp": "59892501461",
+    "instagram": "kevin.nacio"
+  },
+  {
+    "id": "joaquin",
+    "name": "Joaquin",
+    "city": "Canelones",
+    "whatsapp": "59892517382",
+    "instagram": "joaquinlegui_"
+  },
+  {
+    "id": "federica",
+    "name": "Federica",
+    "city": "Canelones",
+    "whatsapp": "59899909948",
+    "instagram": "fedessil"
+  },
+  {
+    "id": "mariana",
+    "name": "Mariana",
+    "city": "Montevideo",
+    "whatsapp": "59894009043",
+    "instagram": "mmar_torress"
+  }
+]
